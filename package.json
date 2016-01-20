@@ -1,0 +1,27 @@
+{
+  "name": "ng-q-all-settled",
+  "version": "1.0.0",
+  "description": "adds Q's allSettled method to Angular's $q",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/data-doge/ng-q-all-settled.git"
+  },
+  "keywords": [
+    "$q",
+    "allSettled",
+    "angular",
+    "promise",
+    "Q",
+    "all"
+  ],
+  "author": "data-doge <eugene@enspiral.com> (http://fuckafucka.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/data-doge/ng-q-all-settled/issues"
+  },
+  "homepage": "https://github.com/data-doge/ng-q-all-settled#readme"
+}
